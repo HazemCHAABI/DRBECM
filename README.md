@@ -85,20 +85,16 @@ Metrics are saved in CSV format and include:
 If you use this work, please cite:
 
 ```bibtex
-@inproceedings{your_paper_citation,
-  title={Distributed Multi-Robot Exploration Approach With Connectivity Maintenance},
-  author={Your names},
-  booktitle={Conference/Journal Name},
-  year={Year of publication},
-  DOI = {DOI or URL}
-}
+@INPROCEEDINGS{DRBECM,
+  author={Chaabi, Hazem and Mitton, Nathalie},
+  booktitle={2025 23rd International Symposium on Modeling and Optimization in Mobile, Ad Hoc, and Wireless Networks (WiOpt)}, 
+  title={Distributed Multi-Robot Exploration Approach With Connectivity Maintenance}, 
+  year={2025}}
 ```
 
-## License
 
-This project is licensed under the MIT License - see [LICENSE](LICENSE) for details.
 
 ## Contact
 
-For questions, please contact [your email address] or open an issue on GitHub.
+For questions, please contact hazem.chaabi@inria.fr
 
